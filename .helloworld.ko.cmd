@@ -1,0 +1,1 @@
+savedcmd_/home/pranav/helloworld1/helloworld.ko := ld -r -EL -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/pranav/helloworld1/helloworld.ko /home/pranav/helloworld1/helloworld.o /home/pranav/helloworld1/helloworld.mod.o;  true
